@@ -6,19 +6,19 @@
 
 <p align="left"> <a href="https://twitter.com/riotmason" target="blank"><img src="https://img.shields.io/twitter/follow/riotmason?logo=twitter&style=for-the-badge" alt="riotmason" /></a> </p>
 
-- 🔭 I’m currently working on [VALORANT](https://playvalorant.com/en-gb/)
+- 🔭 I’m currently working on: [VALORANT](https://playvalorant.com/en-gb/)
 
-- 🌱 I’m currently learning **Software Engineering to the highest level!**
+- 🌱 I’m currently learning: **Software Engineering to the highest level!**
 
-- 👨‍💻 All of my projects are available at [https://tugamason.carrd.co](https://tugamason.carrd.co)
+- 👨‍💻 All of my projects are available at: [https://tugamason.carrd.co](https://tugamason.carrd.co)
 
-- 💬 Ask me about **Python, VALORANT stuff, Java, Typescript**
+- 💬 Ask me about: **Python, VALORANT stuff, Java, Typescript**
 
-- 📫 How to reach me **discord.gg/masonshub**
+- 📫 How to reach me: **discord.gg/masonshub**
 
-- 📄 Know about my experiences [https://tugamason.carrd.co](https://tugamason.carrd.co)
+- 📄 Know about my experiences: [https://tugamason.carrd.co](https://tugamason.carrd.co)
 
-- ⚡ Fun fact **Pineapple doesn't belong on Pizza**
+- ⚡ Fun fact: **Pineapple doesn't belong on Pizza**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

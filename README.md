@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python, VALORANT stuff, Java, Typescript**
 
-- 📫 How to reach me **masonhudak21@gmail.com**
+- 📫 How to reach me **discord.gg/masonshub**
 
 - 📄 Know about my experiences [https://tugamason.carrd.co](https://tugamason.carrd.co)
 

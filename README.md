@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning: **Software Engineering to the highest level!**
 
-- 👨‍💻 All of my projects are available at: [https://tugamason.carrd.co](https://tugamason.carrd.co)
+- 👨‍💻 All of my projects are available here.
 
 - 💬 Ask me about: **Python, VALORANT stuff, Java, Typescript**
 

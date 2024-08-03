@@ -16,8 +16,6 @@
 
 - 📫 How to reach me: **discord.gg/masonshub**
 
-- 📄 Know about my experiences: [https://tugamason.carrd.co](https://tugamason.carrd.co)
-
 - ⚡ Fun fact: **Pineapple doesn't belong on Pizza**
 
 <h3 align="left">Connect with me:</h3>

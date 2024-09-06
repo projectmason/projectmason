@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning: **Software Engineering to the highest level!**
 
-- 👨‍💻 All of my projects are available here.
+- 👨‍💻 All of my projects are available here, some are private. Join my Discord server for more info!
 
 - 💬 Ask me about: **Python, VALORANT stuff, Java, Typescript**
 

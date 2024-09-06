@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available here, some are private. Join my Discord server for more info!
 
-- 💬 Ask me about: **Python, VALORANT stuff, Java, Typescript**
+- 💬 Ask me about: **Python, Java, Typescript or anything coding related.**
 
 - 📫 How to reach me: **discord.gg/masonshub**
 

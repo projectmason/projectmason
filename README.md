@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Mason!</h1>
-<h3 align="center">A passionate frontend developer from the UK/Portugal</h3>
+<h3 align="center">A passionate frontend developer from Portugal</h3>
 <img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=projectmason&label=Profile%20views&color=0e75b6&style=flat" alt="projectmason" /> </p>
 
 <p align="left"> <a href="https://twitter.com/riotmason" target="blank"><img src="https://img.shields.io/twitter/follow/tugamason?logo=twitter&style=for-the-badge" alt="tugamason" /></a> </p>
 
-- 🔭 I’m currently working on: [VALORANT](https://playvalorant.com/en-gb/)
+- 🔭 I’m currently working on a few websites of my own.
 
 - 🌱 I’m currently learning: **Software Engineering to the highest level!**
 
-- 👨‍💻 All of my projects are available here, some are private. Join my Discord server for more info!
+- 👨‍💻 All of my projects are available here, some are private.
 
 - 💬 Ask me about: **Python, Java, Typescript or anything coding related.**
 
-- 📫 How to reach me: **discord.gg/masonshub**
+- 📫 How to reach me: 
 
 - ⚡ Fun fact: **Pineapple doesn't belong on Pizza**
 

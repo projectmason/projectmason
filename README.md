@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=projectmason&label=Profile%20views&color=0e75b6&style=flat" alt="projectmason" /> </p>
 
-<p align="left"> <a href="https://twitter.com/riotmason" target="blank"><img src="https://img.shields.io/twitter/follow/tugamason?logo=twitter&style=for-the-badge" alt="tugamason" /></a> </p>
-
 - 🔭 I’m currently working on a few websites of my own.
 
 - 🌱 I’m currently learning: **Software Engineering to the highest level!**
